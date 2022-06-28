@@ -11,6 +11,6 @@
 ###### `<link>` : <https://msaul03.github.io/Responsive-Portfolio/>
 
 ## Screenshot
-![Image](Captura.png)
+![Image](Captura.PNG)
 
-![Image](Captura1.png)
+![Image](Captura1.PNG)
